@@ -5,3 +5,5 @@ As a web developer, I love to use Safari Technology Preview. However, typing Saf
 I developed this simple workflow so that I can now launch Safari Technology Preview by typing `webkit` or `wk` into Alfred. 
 
 You can also pass an optional URL to the command. If you do the URL will be opened inside Safari Technology Preview. If no URL is passed, the application will simply be activated. 
+
+![Screenshot](screenshot.jpg)
