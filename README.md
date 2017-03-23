@@ -6,4 +6,6 @@ I developed this simple workflow so that I can now launch Safari Technology Prev
 
 You can also pass an optional URL to the command. If you do the URL will be opened inside Safari Technology Preview. If no URL is passed, the application will simply be activated. 
 
+[View on Packal](http://www.packal.org/workflow/safari-tech-preview-webkit)
+
 ![Screenshot](screenshot.jpg)
